@@ -1,4 +1,4 @@
-package com.yuanzijian.itcast.file;
+package com.yuanzijian01.itcast.file;
 
 import java.io.File;
 import java.io.IOException;
